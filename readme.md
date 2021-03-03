@@ -40,7 +40,8 @@ dotnet new console
 - **Aula 04:** vamos aprender sobre escopo de variáveis, basicamente onde as variáveis declaradas são visíveis dentro do nosso programa. Falaremos de variáveis globais e variáveis locais;
 - **Aula 05:** vamos aprender sobre operadores e operações. Operações matemáticas, relacionais / lógicas / comparação, atribuições, etc;
 - **Aula 06:** vamos aprender como formatar/personalizar as saídas de texto no console, usando caracteres de escape e outros marcadores;
-- **Aula 07:** vamos aprender como usar constantes. O que são constantes, como declarar constantes e atribuir o valor inicial a constante.;
+- **Aula 07:** vamos aprender como usar constantes. O que são constantes, como declarar constantes e atribuir o valor inicial a constante;
+- **Aula 08:** vamos aprender como ler valores diretamente do teclado e armazenar em variáveis;
 
 <h3>💻 Programação com Visual Studio Community:</h3>
 
