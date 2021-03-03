@@ -42,6 +42,7 @@ dotnet new console
 - **Aula 06:** vamos aprender como formatar/personalizar as saídas de texto no console, usando caracteres de escape e outros marcadores;
 - **Aula 07:** vamos aprender como usar constantes. O que são constantes, como declarar constantes e atribuir o valor inicial a constante;
 - **Aula 08:** vamos aprender como ler valores diretamente do teclado e armazenar em variáveis;
+- **Aula 09:** vamos aprender sobre os operadores bitwise, são operações simples de deslocamento de bits que em resumo dobram o valor da variável ou diminuem pela metade;
 
 <h3>💻 Programação com Visual Studio Community:</h3>
 
