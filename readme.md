@@ -31,18 +31,14 @@ O curso de C# será dividido em duas grandes partes, a primeira parte iremos apr
 <!-- Aulas -->
 <h3>💻 Programação com Visual Studio Code:</h3>
 
-- **Aula 01:** instruções de instalação do VSCode, Frameworks .NET. Executado o primeiro programa, Hello World, e como compilar o código realizado;<br>
-*Descrição: vamos baixar todo conteúdo necessário, instalar as ferramentas e configurar tudo para que possamos aprende a programar em C#.*
-- **Aula 02:** criado um projeto no padrão .NET com o comando;<br>
-*Descrição: vamos criar nosso primeiro programa no padrão C# .net (dotnet). Vamos aprender de forma bastante resumida como obter os parâmetros de execução do programa.*
+- **Aula 01:** vamos baixar todo conteúdo necessário, instalar as ferramentas e configurar tudo para que possamos aprende a programar em C#;
+- **Aula 02:** vamos criar nosso primeiro programa no padrão C# .net (dotnet). Vamos aprender de forma bastante resumida como obter os parâmetros de execução do programa. Projeto criado com o comando abaixo;
 ```
 dotnet new console
 ```
-- **Aula 03:** trabalhando com variáveis e mostrando os valores das mesmas na tela;<br>
-*Descrição: vamos aprender sobre variáveis, vamos falar sobre os tipos de dados, como criar uma variável, atribuir um valor e ler o valor armazenado na variável.*
-- **Aula 04:** trabalhando com variáveis globais e locais;<br>
-*Descrição: vamos aprender sobre escopo de variáveis, basicamente onde as variáveis declaradas são visíveis dentro do nosso programa. Falaremos de variáveis globais e variáveis locais.*
-
+- **Aula 03:** vamos aprender sobre variáveis, os tipos de dados, como criar uma variável, atribuir um valor e ler o valor armazenado na variável;
+- **Aula 04:** vamos aprender sobre escopo de variáveis, basicamente onde as variáveis declaradas são visíveis dentro do nosso programa. Falaremos de variáveis globais e variáveis locais;
+- **Aula 05:** vamos aprender sobre operadores e operações. Operações matemáticas, relacionais / lógicas / comparação, atribuições, etc;
 
 <h3>💻 Programação com Visual Studio Community:</h3>
 
