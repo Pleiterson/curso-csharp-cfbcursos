@@ -25,11 +25,11 @@ C# é uma linguagem de programação, multiparadigma, desenvolvida pela Microsof
 O curso de C# será dividido em duas grandes partes, a primeira parte iremos aprender toda lógica de programação usando a linguagem C# no Visual Studio Code, na segunda parte iremos partir para a parte gráfica, usando o Visual Studio Community para criar programar no padrão Windows, com formulários, botões, elementos interativos, relatórios e banco de dados.
 
 - [Playlist do Curso](https://www.youtube.com/playlist?list=PLx4x_zx8csUglgKTmgfVFEhWWBQCasNGi)
-<br>Programação com VSCode: 1 ao 59
-<br>Programação com Visual Studio - QT Creator: 60 ao 130
+<br>Programação com Visual Studio Code: 1 ao 59
+<br>Programação com Visual Studio Community: 60 ao 130
 
 <!-- Aulas -->
-<h3>💻 Programação com VSCode:</h3>
+<h3>💻 Programação com Visual Studio Code:</h3>
 
 - **Aula 01:** instruções de instalação do VSCode, Frameworks .NET. Executado o primeiro programa, Hello World, e como compilar o código realizado;<br>
 *Descrição: vamos baixar todo conteúdo necessário, instalar as ferramentas e configurar tudo para que possamos aprende a programar em C#.*
@@ -38,8 +38,10 @@ O curso de C# será dividido em duas grandes partes, a primeira parte iremos apr
 ```
 dotnet new console
 ```
-- **Aula 03:** ;<br>
+- **Aula 03:** trabalhando com variáveis e mostrando os valores das mesmas na tela;<br>
 *Descrição: vamos aprender sobre variáveis, vamos falar sobre os tipos de dados, como criar uma variável, atribuir um valor e ler o valor armazenado na variável.*
+
+<h3>💻 Programação com Visual Studio Community:</h3>
 
 <!--License session-->
 <h3>📝 Licença</h3>
