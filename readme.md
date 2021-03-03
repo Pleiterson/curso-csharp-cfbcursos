@@ -40,8 +40,9 @@ dotnet new console
 ```
 - **Aula 03:** trabalhando com variáveis e mostrando os valores das mesmas na tela;<br>
 *Descrição: vamos aprender sobre variáveis, vamos falar sobre os tipos de dados, como criar uma variável, atribuir um valor e ler o valor armazenado na variável.*
-- **Aula 04:** ;<br>
+- **Aula 04:** trabalhando com variáveis globais e locais;<br>
 *Descrição: vamos aprender sobre escopo de variáveis, basicamente onde as variáveis declaradas são visíveis dentro do nosso programa. Falaremos de variáveis globais e variáveis locais.*
+
 
 <h3>💻 Programação com Visual Studio Community:</h3>
 
