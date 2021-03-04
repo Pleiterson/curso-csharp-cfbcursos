@@ -52,6 +52,7 @@ dotnet new console
 - **Aula 16:** vamos aprender sobre o comando goto que faz um desvio no fluxo de execução do programa para um label indicado;
 - **Aula 17:** vamos aprender sobre os arrays ou vetores, que são estruturas unidimensionais que armazenam vários dados do mesmo tipo;
 - **Aula 18:** vamos aprender sobre as matrizes que nada mais são que arrays com mais de uma dimensão, ou mais de um índice de controle, como se fosse representado por uma tabela com linhas e colunas, ex.: excel;
+- **Aula 19:** vamos começar a aprender sobre as estruturas de iteração (repetição), nesta aula iremos aprender sobre o loop FOR. Um comando de loop executa um bloco de comandos um número determinado ou indeterminado de vezes, no caso do loop FOR nós sabemos quantas vezes os comandos serão repetidos;
 
 <h3>💻 Programação com Visual Studio Community:</h3>
 
