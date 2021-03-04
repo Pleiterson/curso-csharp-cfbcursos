@@ -49,6 +49,7 @@ dotnet new console
 - **Aula 13:** vamos aprender sobre o complemento do comando IF que é a instrução ELSE. Basicamente ELSE é o caso contrário do IF, ou seja, caso o teste do IF seja verdadeiro seu bloco de comandos é executado, mas caso seja falso o bloco de comandos a ser executado é do ELSE;
 - **Aula 14:** vamos aprender sobre aninhamento do comando IF, que é a situação onde podemos aplicar uma estrutura IF ou IF-ELSE dentro de outra estrutura IF;
 - **Aula 15:** vamos aprender sobre a estrutura switch case, tem uma funcionalidade semelhante ao IF. Seu funcionamento é simples, basicamente escolhe qual bloco de comandos será executado mediante o reusltado de um teste lógico;
+- **Aula 16:** vamos aprender sobre o comando goto que faz um desvio no fluxo de execução do programa para um label indicado;
 
 <h3>💻 Programação com Visual Studio Community:</h3>
 
