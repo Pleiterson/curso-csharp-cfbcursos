@@ -50,6 +50,7 @@ dotnet new console
 - **Aula 14:** vamos aprender sobre aninhamento do comando IF, que é a situação onde podemos aplicar uma estrutura IF ou IF-ELSE dentro de outra estrutura IF;
 - **Aula 15:** vamos aprender sobre a estrutura switch case, tem uma funcionalidade semelhante ao IF. Seu funcionamento é simples, basicamente escolhe qual bloco de comandos será executado mediante o reusltado de um teste lógico;
 - **Aula 16:** vamos aprender sobre o comando goto que faz um desvio no fluxo de execução do programa para um label indicado;
+- **Aula 17:** vamos aprender sobre os arrays ou vetores, que são estruturas unidimensionais que armazenam vários dados do mesmo tipo;
 
 <h3>💻 Programação com Visual Studio Community:</h3>
 
