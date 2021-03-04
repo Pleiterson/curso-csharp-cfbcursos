@@ -44,6 +44,7 @@ dotnet new console
 - **Aula 08:** vamos aprender como ler valores diretamente do teclado e armazenar em variáveis;
 - **Aula 09:** vamos aprender sobre os operadores bitwise, são operações simples de deslocamento de bits que em resumo dobram o valor da variável ou diminuem pela metade;
 - **Aula 10:** vamos aprender sobre enumeradores, basicamente podemos definir um tipo com valores personalizados, podemos definir os valores que poderão ser atribuídos aos elementos do tipo enum que criarmos;
+- **Aula 11:** vamos aprender sobre conversões de tipos, veremos que existem as conversões implícitas, também conhecidas como conversões seguras e automáticas e as conversões explícitas onde devemos indicar o comando para conversão;
 
 <h3>💻 Programação com Visual Studio Community:</h3>
 
