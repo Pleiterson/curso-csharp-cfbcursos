@@ -47,6 +47,7 @@ dotnet new console
 - **Aula 11:** vamos aprender sobre conversões de tipos, veremos que existem as conversões implícitas, também conhecidas como conversões seguras e automáticas e as conversões explícitas onde devemos indicar o comando para conversão;
 - **Aula 12:** vamos aprender sobre o comando condicional IF. Basicamente o comando IF realiza um teste condicional e dependendo do resultado deste teste, se for verdadeiro ou falso, se for verdadeiro a condicional IF executa seu bloco de comandos se for false, simplesmente não executa seu bloco de comandos e prossegue com o programa após o bloco do IF;
 - **Aula 13:** vamos aprender sobre o complemento do comando IF que é a instrução ELSE. Basicamente ELSE é o caso contrário do IF, ou seja, caso o teste do IF seja verdadeiro seu bloco de comandos é executado, mas caso seja falso o bloco de comandos a ser executado é do ELSE;
+- **Aula 14:** vamos aprender sobre aninhamento do comando IF, que é a situação onde podemos aplicar uma estrutura IF ou IF-ELSE dentro de outra estrutura IF;
 
 <h3>💻 Programação com Visual Studio Community:</h3>
 
