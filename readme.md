@@ -48,7 +48,7 @@ dotnet new console
 - **Aula 12:** vamos aprender sobre o comando condicional IF. Basicamente o comando IF realiza um teste condicional e dependendo do resultado deste teste, se for verdadeiro ou falso, se for verdadeiro a condicional IF executa seu bloco de comandos se for false, simplesmente não executa seu bloco de comandos e prossegue com o programa após o bloco do IF;
 - **Aula 13:** vamos aprender sobre o complemento do comando IF que é a instrução ELSE. Basicamente ELSE é o caso contrário do IF, ou seja, caso o teste do IF seja verdadeiro seu bloco de comandos é executado, mas caso seja falso o bloco de comandos a ser executado é do ELSE;
 - **Aula 14:** vamos aprender sobre aninhamento do comando IF, que é a situação onde podemos aplicar uma estrutura IF ou IF-ELSE dentro de outra estrutura IF;
-
+- **Aula 15:** vamos aprender sobre a estrutura switch case, tem uma funcionalidade semelhante ao IF. Seu funcionamento é simples, basicamente escolhe qual bloco de comandos será executado mediante o reusltado de um teste lógico;
 
 <h3>💻 Programação com Visual Studio Community:</h3>
 
