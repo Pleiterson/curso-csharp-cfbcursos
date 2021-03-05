@@ -56,6 +56,7 @@ dotnet new console
 - **Aula 20:** vamos continuar a aprender sobre as estruturas de iteração, nesta aula iremos aprender sobre o loop WHILE, diferente do loop FOR o loop WHILE é indicado quando não sabemos ao certo quantas vezes iremos executar o bloco de comandos;
 - **Aula 21:** vamos continuar a aprender sobre as estruturas de iteração, nesta aula iremos aprender sobre o loop DO WHILE, diferente do loop WHILE o loop DO WHILE garante pelo menos uma execução do bloco de comandos, isso porque primeiro ele executa o bloco de comandos e só depois ele verifica a condição de execução;
 - **Aula 22:** vamos continuar a aprender sobre as estruturas de iteração, nesta aula iremos aprender sobre o loop FOREACH, indicado para quando for necessário ler os elementos de uma coleção como um array/vetor por exemplo;
+- **Aula 23:** vamos aprender métodos já implementados para manipulação dos elementos de um array (vetor ou matriz), são vários métodos para ordenar, copiar, inverter, inserir elementos, irei dividir este assunto em duas aulas;
 
 <h3>💻 Programação com Visual Studio Community:</h3>
 
