@@ -28,13 +28,37 @@ O curso de C# será dividido em duas grandes partes, a primeira parte iremos apr
 <br>Programação com Visual Studio Code: 1 ao 59
 <br>Programação com Visual Studio Community: 60 ao 130
 
+<h3>Configurando o compilador C# (csc.exe)</h3>
+
+- Verificar se o compilador jpa está configurado. Abra o terminal, e na pasta "C:" digite csc. Caso aprensente erro, você deve incluir a pasta do arquivo csc.exe no path do sistema (em variáveis de ambiente).
+```
+C:\Windows\Microsoft.NET\Framework64\v4.0.30319
+```
+Caso não tenha o arquivo na pasta acima, você deve instalar o .NET Core SDK e o .NET Framework Runtime. [Baixe aqui](https://dotnet.microsoft.com/download).
+- No terminal do VSCode, vamos digitar "csc" para verificar se o sistema está reconhecendo o compilador do framework instalado. Caso apresente erro, mesmo incluindo nas variáveis ambiente, execute este comando para reconhecer o compilador.
+- Para executar os arquivos digite o comando na pasta onde o arquivo se encontra
+```
+PATH %path$;C:\Windows\Microsoft.NET\Framework64\v4.0.30319
+
+// depois digite comando abaixo para confirmação
+csc
+```
+- Para executar os arquivos digite o comando na pasta onde o arquivo se encontra. Ele vai gerar um arquivo executável, e então é só digitar o nome do arquivo que vai rodar o código escrito
+```
+csc aula01.cs
+
+aula01
+```
+
 <!-- Aulas -->
 <h3>💻 Programação com Visual Studio Code:</h3>
 
 - **Aula 01:** vamos baixar todo conteúdo necessário, instalar as ferramentas e configurar tudo para que possamos aprende a programar em C#;
 - **Aula 02:** vamos criar nosso primeiro programa no padrão C# .net (dotnet). Vamos aprender de forma bastante resumida como obter os parâmetros de execução do programa. Projeto criado com o comando abaixo;
 ```
-dotnet new console
+dotnet new console // para criar um projeto
+
+dotnet run // para executar o projeto
 ```
 - **Aula 03:** vamos aprender sobre variáveis, os tipos de dados, como criar uma variável, atribuir um valor e ler o valor armazenado na variável;
 - **Aula 04:** vamos aprender sobre escopo de variáveis, basicamente onde as variáveis declaradas são visíveis dentro do nosso programa. Falaremos de variáveis globais e variáveis locais;
@@ -57,6 +81,7 @@ dotnet new console
 - **Aula 21:** vamos continuar a aprender sobre as estruturas de iteração, nesta aula iremos aprender sobre o loop DO WHILE, diferente do loop WHILE o loop DO WHILE garante pelo menos uma execução do bloco de comandos, isso porque primeiro ele executa o bloco de comandos e só depois ele verifica a condição de execução;
 - **Aula 22:** vamos continuar a aprender sobre as estruturas de iteração, nesta aula iremos aprender sobre o loop FOREACH, indicado para quando for necessário ler os elementos de uma coleção como um array/vetor por exemplo;
 - **Aula 23:** vamos aprender métodos já implementados para manipulação dos elementos de um array (vetor ou matriz), são vários métodos para ordenar, copiar, inverter, inserir elementos, irei dividir este assunto em duas aulas;
+- **Aula 24:** vamos aprender os detalhes mais importantes a respeitos dos métodos, como métodos com e sem retorno e argumentos de entrada;
 
 <h3>💻 Programação com Visual Studio Community:</h3>
 
